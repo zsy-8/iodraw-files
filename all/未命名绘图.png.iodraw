@@ -1,0 +1,214 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1000" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-1" target="pZfPvZ3Fr_B66GHdRBus-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-1" value="&lt;span&gt;&lt;b&gt;种子库构建：&lt;/b&gt;&lt;/span&gt;收集种子序列（文献抑制肽和阴性对照）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" target="pZfPvZ3Fr_B66GHdRBus-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" target="pZfPvZ3Fr_B66GHdRBus-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-2" value="&lt;b&gt;&lt;span&gt;结构先验&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESMFold/AlphaFold&lt;/span&gt; 预测所有种子肽结构。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-4" target="pZfPvZ3Fr_B66GHdRBus-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-4" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;位点侦察&lt;/span&gt;：&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;AutoDock&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt; 初步对接 PD-L1&lt;/span&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;PyMOL&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;锁定“热点残基 和“偶联位点”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-6" target="pZfPvZ3Fr_B66GHdRBus-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-6" target="pZfPvZ3Fr_B66GHdRBus-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-6" value="&lt;b&gt;&lt;span&gt;约束生成&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESM-2&lt;/span&gt;，固定热点，对非关键位点进行掩码补全。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-8" target="pZfPvZ3Fr_B66GHdRBus-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-8" value="&lt;b&gt;去伪存真：&lt;/b&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;AlphaFold对候选肽结构一致性软过滤&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-10" target="pZfPvZ3Fr_B66GHdRBus-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-10" value="&lt;b&gt;能量初筛&lt;/b&gt;：&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;重复分子对接计算平均结合能和波动&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-12" target="pZfPvZ3Fr_B66GHdRBus-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-12" target="pZfPvZ3Fr_B66GHdRBus-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-12" value="&lt;b&gt;动力学终审&lt;/b&gt;：短时间分子动力学模拟估算结合自由能并分析接触稳定性" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-14" target="pZfPvZ3Fr_B66GHdRBus-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-14" value="&lt;b&gt;成药性评估&lt;/b&gt;：理化性质、免疫风险和载体适配性评估" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-16" target="pZfPvZ3Fr_B66GHdRBus-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-16" value="&lt;b&gt;敏感性验证&lt;/b&gt;：阴性对照重跑流程验证流程敏感性" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-18" target="pZfPvZ3Fr_B66GHdRBus-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-18" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;输出：&lt;/b&gt;Top 3–5候选 + 偶联位点建议（进入实验/合成）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="890" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-20" target="pZfPvZ3Fr_B66GHdRBus-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="10" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-23" target="pZfPvZ3Fr_B66GHdRBus-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="420" width="20" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-26" target="pZfPvZ3Fr_B66GHdRBus-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="710" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-29" value="第一阶段：输入与解析" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="101.88" width="80" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-30" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;第三阶段：物理精选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="116.25" y="521.25" width="73.75" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第四阶段：工程化决策&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="806.25" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-33" target="pZfPvZ3Fr_B66GHdRBus-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-33" value="生成侧多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="263.13" width="130" height="33.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;PD-1–PD-L1 复合物提取关键界面环片段作为额外种&lt;/span&gt;子" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="45" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-37" target="pZfPvZ3Fr_B66GHdRBus-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-37" value="加入环肽模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="887.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-39" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-40" target="pZfPvZ3Fr_B66GHdRBus-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-40" value="结构模拟加分模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="608.75" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" target="pZfPvZ3Fr_B66GHdRBus-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" target="pZfPvZ3Fr_B66GHdRBus-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-42" value="&lt;b&gt;多样性控制：&lt;/b&gt;对通过软过滤的肽进行&lt;span&gt;聚类，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;从每个结构簇里只挑 1-2 个&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="420" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-48" target="pZfPvZ3Fr_B66GHdRBus-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="250" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-49" value="第二阶段：生成与软筛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="305" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="625" y="561.25" width="27.5" height="148.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="632.5" y="855" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="635" y="195" width="15" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-58" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="887.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-59" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="608.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-60" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="256.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-62" value="&lt;span data-end=&quot;437&quot; data-start=&quot;413&quot;&gt;保守-激进双批次生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="195" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-63" value="受控突变扰动（小号进化模块）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="260" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="330" width="130" height="33.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-67" target="pZfPvZ3Fr_B66GHdRBus-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-67" value="输入侧多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="95" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="632.5" y="50" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-74" value="界面 motif 语料库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="138.13" width="120" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-79" value="筛选测多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="434.38" width="130" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-81" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="390" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-83" value="环化策略设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="855" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-84" value="环肽结构与能量评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="902.5" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-85" value="线性 vs 环肽对照分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="945" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-86" value="旗舰候选深挖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="680" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-87" value="MD 接触稳定性指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="652.5" y="622.5" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-88" value="多级能量门槛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="652.5" y="561.25" width="140" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
