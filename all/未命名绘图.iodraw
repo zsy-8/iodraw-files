@@ -181,6 +181,9 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-74" value="界面 motif 语料库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="619" y="238.13" width="120" height="31.87" as="geometry" />
         </mxCell>
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-79" target="TB8TpsdE_VyWEIfNNLQ7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-79" value="筛选侧多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="439" y="534.38" width="130" height="36.25" as="geometry" />
         </mxCell>
@@ -210,6 +213,11 @@
         </mxCell>
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-1" value="理化性质空间均衡" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="611.5" y="582.5" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TB8TpsdE_VyWEIfNNLQ7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="523" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="611.5" y="492.5" width="127.5" height="30" as="geometry" />
