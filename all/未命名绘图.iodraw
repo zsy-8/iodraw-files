@@ -212,7 +212,7 @@
           <mxGeometry x="652.5" y="485" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="652.5" y="395" width="140" height="25" as="geometry" />
+          <mxGeometry x="652.5" y="390" width="140" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
