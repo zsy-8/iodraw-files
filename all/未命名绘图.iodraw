@@ -197,7 +197,7 @@
           <mxGeometry x="609.75" y="1001.25" width="131" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-85" value="线性 vs 环肽对照分析" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="609" y="1050" width="131" height="25" as="geometry" />
+          <mxGeometry x="609" y="1040" width="131" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-86" value="旗舰候选深挖" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="780" width="127.5" height="30" as="geometry" />
