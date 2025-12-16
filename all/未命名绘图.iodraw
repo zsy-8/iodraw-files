@@ -191,7 +191,7 @@
           <mxGeometry x="589" y="490" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-83" value="环化策略设计" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="619" y="955" width="140" height="25" as="geometry" />
+          <mxGeometry x="619" y="955" width="131" height="25" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-84" value="环肽结构与能量评估" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="619" y="1002.5" width="140" height="25" as="geometry" />
