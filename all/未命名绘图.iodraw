@@ -199,10 +199,10 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-85" value="线性 vs 环肽对照分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="945" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-86" value="旗舰候选深挖" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-86" value="旗舰候选深挖" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650" y="680" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-87" value="MD 接触稳定性指标" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-87" value="MD 接触稳定性指标" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="652.5" y="622.5" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-88" value="多级能量门槛" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
