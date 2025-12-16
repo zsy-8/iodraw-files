@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-8" value="&lt;b&gt;去伪存真：&lt;/b&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;AlphaFold对候选肽结构一致性软过滤&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="430" width="134" height="60" as="geometry" />
+          <mxGeometry x="232" y="440" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-10" target="pZfPvZ3Fr_B66GHdRBus-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -181,7 +181,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-74" value="界面 motif 语料库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="619" y="238.13" width="120" height="31.87" as="geometry" />
         </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-79" target="TB8TpsdE_VyWEIfNNLQ7-2">
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-79" target="pZfPvZ3Fr_B66GHdRBus-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-79" value="筛选侧多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -211,15 +211,15 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-88" value="多级能量门槛" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="661.25" width="127.5" height="28.75" as="geometry" />
         </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-1" value="理化性质空间均衡" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-1" value="理化性质空间均衡" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="582.5" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TB8TpsdE_VyWEIfNNLQ7-2">
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TB8TpsdE_VyWEIfNNLQ7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="492.5" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
