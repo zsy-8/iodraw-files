@@ -10,20 +10,21 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-1" value="&lt;span&gt;&lt;b&gt;种子库构建：&lt;/b&gt;&lt;/span&gt;收集种子序列（文献抑制肽和阴性对照）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" target="pZfPvZ3Fr_B66GHdRBus-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="265" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" target="pZfPvZ3Fr_B66GHdRBus-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-2" value="&lt;b&gt;&lt;span&gt;结构先验&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;AlphaFold&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;初步对接 PD-L1&lt;br/&gt;PyMOL锁定“热点残基 和“偶联位点”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="239" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="210" width="129" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-4" target="pZfPvZ3Fr_B66GHdRBus-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-4" value="&lt;b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;位点侦察&lt;/span&gt;：&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;AutoDock&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt; 初步对接 PD-L1&lt;/span&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;PyMOL&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;锁定“热点残基 和“偶联位点”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="239" y="265" width="120" height="60" as="geometry" />
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pZfPvZ3Fr_B66GHdRBus-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299" y="325" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-6" target="pZfPvZ3Fr_B66GHdRBus-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
