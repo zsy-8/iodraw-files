@@ -25,7 +25,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-6" target="pZfPvZ3Fr_B66GHdRBus-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-6" value="&lt;b&gt;&lt;span&gt;约束生成&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESM-2&lt;/span&gt;，固定热点，对非关键位点进行掩码补全。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-6" value="&lt;b&gt;&lt;span&gt;约束生成&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESM-2&lt;/span&gt;，固定热点，对非关键位点进行掩码补全，生成20-50万条" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="234" y="350" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-8" target="pZfPvZ3Fr_B66GHdRBus-42" edge="1">
