@@ -16,7 +16,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" target="pZfPvZ3Fr_B66GHdRBus-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-2" value="&lt;b&gt;&lt;span&gt;结构先验&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESMFold/AlphaFold&lt;/span&gt; 预测所有种子肽结构。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-2" value="&lt;b&gt;&lt;span&gt;结构先验&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;AlphaFold&lt;/span&gt; 预测所有种子肽结构。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-4" target="pZfPvZ3Fr_B66GHdRBus-6" edge="1">
