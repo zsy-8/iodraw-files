@@ -216,6 +216,9 @@
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="492.5" width="127.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-20" target="pZfPvZ3Fr_B66GHdRBus-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
