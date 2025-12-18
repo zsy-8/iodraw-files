@@ -15,11 +15,11 @@
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="290" as="targetPoint" />
+            <mxPoint x="441.5" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-6" value="&lt;b&gt;&lt;span&gt;约束生成&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESM-2&lt;/span&gt;，固定热点，对非关键位点进行掩码补全，生成20-50万条" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="234" y="340" width="130" height="60" as="geometry" />
+          <mxGeometry x="236.5" y="285" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pZfPvZ3Fr_B66GHdRBus-42" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -113,10 +113,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="189" y="260" width="20" height="140" as="geometry" />
+          <mxGeometry x="191.5" y="205" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-49" value="第二阶段：四驱生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="79" y="315" width="70" height="30" as="geometry" />
+          <mxGeometry x="81.5" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="584" y="571.25" width="27.5" height="148.75" as="geometry" />
@@ -134,10 +134,10 @@
           <mxGeometry x="369" y="618.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-62" value="&lt;span data-end=&quot;437&quot; data-start=&quot;413&quot;&gt;保守-激进双批次生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="459" y="290" width="130" height="35" as="geometry" />
+          <mxGeometry x="461.5" y="235" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="459" y="341.25" width="130" height="33.75" as="geometry" />
+          <mxGeometry x="461.5" y="286.25" width="130" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="444" y="402.5" width="20" height="120" as="geometry" />
@@ -171,8 +171,8 @@
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="466.5" y="402.5" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;数据分级：把种子库各序列分成四部分，分别对应不同的生成规则&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="260" width="130" height="60" as="geometry" />
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;数据分级：&lt;/b&gt;把种子库各序列分成四部分，分别对应不同的生成规则" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="236.5" y="205" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
