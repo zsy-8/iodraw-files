@@ -92,15 +92,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-42" value="&lt;b&gt;序列模型快筛：&lt;/b&gt;用现成的&lt;span style=&quot;&quot; data-end=&quot;296&quot; data-start=&quot;277&quot;&gt;肽-蛋白相互作用/结合预测模型&lt;/span&gt;做第一道快筛，条件允许可以两个模型取交集/加权平均" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="238.5" y="420" width="261.5" height="80" as="geometry" />
+          <mxGeometry x="238.5" y="420" width="261.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-48" target="pZfPvZ3Fr_B66GHdRBus-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YwTyjbH3uf9YxfQzc2_i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="310" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="191.5" y="205" width="18.5" height="155" as="geometry" />
