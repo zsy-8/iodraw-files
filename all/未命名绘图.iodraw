@@ -169,7 +169,7 @@
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YwTyjbH3uf9YxfQzc2_i-1" target="pZfPvZ3Fr_B66GHdRBus-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YwTyjbH3uf9YxfQzc2_i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YwTyjbH3uf9YxfQzc2_i-1" target="pZfPvZ3Fr_B66GHdRBus-64">
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YwTyjbH3uf9YxfQzc2_i-1" target="pZfPvZ3Fr_B66GHdRBus-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;种子分级：&lt;/b&gt;把种子库各序列分成四部分，分别对应不同的生成规则" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
