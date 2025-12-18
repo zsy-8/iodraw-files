@@ -101,9 +101,6 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-33" value="生成侧多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="439" y="273.13" width="130" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;PD-1–PD-L1 复合物提取关键界面环片段作为额外种&lt;/span&gt;子" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="619" y="55" width="120" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-37" target="pZfPvZ3Fr_B66GHdRBus-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -161,14 +158,8 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="609" y="341.25" width="130" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-67" target="pZfPvZ3Fr_B66GHdRBus-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-67" value="输入侧多样性增强模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;align=center;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="439" y="120" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="591.5" y="60" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-79" target="pZfPvZ3Fr_B66GHdRBus-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
