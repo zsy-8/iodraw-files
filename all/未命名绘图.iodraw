@@ -134,7 +134,7 @@
           <mxGeometry x="369" y="618.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-62" value="&lt;span data-end=&quot;437&quot; data-start=&quot;413&quot;&gt;保守-激进双批次生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="459" y="205" width="130" height="35" as="geometry" />
+          <mxGeometry x="459" y="290" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="459" y="341.25" width="130" height="33.75" as="geometry" />
@@ -170,6 +170,9 @@
         </mxCell>
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="466.5" y="402.5" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;&lt;span&gt;约束生成&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESM-2&lt;/span&gt;，固定热点，对非关键位点进行掩码补全，生成20-50万条" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="244" y="350" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
