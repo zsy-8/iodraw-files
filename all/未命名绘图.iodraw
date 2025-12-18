@@ -120,7 +120,7 @@
           <mxGeometry x="591.5" y="865" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="444" y="205" width="15" height="170" as="geometry" />
+          <mxGeometry x="436.5" y="150" width="15" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-58" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="369" y="897.5" width="60" height="30" as="geometry" />
@@ -129,10 +129,10 @@
           <mxGeometry x="369" y="618.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-62" value="&lt;span data-end=&quot;437&quot; data-start=&quot;413&quot;&gt;保守-激进双批次生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="461.5" y="235" width="130" height="35" as="geometry" />
+          <mxGeometry x="454" y="180" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="461.5" y="286.25" width="130" height="33.75" as="geometry" />
+          <mxGeometry x="454" y="231.25" width="130" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="444" y="402.5" width="20" height="120" as="geometry" />
@@ -167,6 +167,9 @@
           <mxGeometry x="466.5" y="402.5" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YwTyjbH3uf9YxfQzc2_i-1" target="pZfPvZ3Fr_B66GHdRBus-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YwTyjbH3uf9YxfQzc2_i-1" target="pZfPvZ3Fr_B66GHdRBus-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;种子分级：&lt;/b&gt;把种子库各序列分成四部分，分别对应不同的生成规则" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
