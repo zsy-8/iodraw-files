@@ -10,9 +10,6 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-1" value="&lt;span&gt;&lt;b&gt;种子库构建：&lt;/b&gt;&lt;/span&gt;收集种子序列（文献阳性肽和界面关键Loop）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="20" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-iDF-PD3A-vabM34231s-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-2" target="pZfPvZ3Fr_B66GHdRBus-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-2" value="&lt;b&gt;&lt;span&gt;结构先验&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;AlphaFold&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;初步对接 PD-L1锁定“热点残基 和“偶联位点”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="100" width="120" height="70.94" as="geometry" />
         </mxCell>
