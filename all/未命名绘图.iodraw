@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-42" value="&lt;b&gt;序列模型快筛：&lt;/b&gt;用现成的&lt;span style=&quot;&quot; data-end=&quot;296&quot; data-start=&quot;277&quot;&gt;肽-蛋白相互作用/结合预测模型&lt;/span&gt;做第一道快筛，条件允许可以两个模型取交集/加权平均" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="238.5" y="420" width="121" height="90" as="geometry" />
+          <mxGeometry x="238.5" y="420" width="261.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-48" target="pZfPvZ3Fr_B66GHdRBus-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,9 +121,6 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="骨架重构（共识序列）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="465.25" y="240" width="130" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="444" y="402.5" width="20" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-83" value="环化策略设计" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="865" width="128.5" height="25" as="geometry" />
         </mxCell>
@@ -141,9 +138,6 @@
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-88" value="多级能量门槛" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611.5" y="571.25" width="127.5" height="28.75" as="geometry" />
-        </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-1" value="理化性质空间均衡" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="466.5" y="492.5" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
