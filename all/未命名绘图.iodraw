@@ -109,9 +109,6 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-37" value="加入环肽模块" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="439" y="987.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-39" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-40" target="pZfPvZ3Fr_B66GHdRBus-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
