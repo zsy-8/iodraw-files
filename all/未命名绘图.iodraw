@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-10" value="&lt;b&gt;工程化前置过滤：&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot; data-index-in-node=&quot;15&quot; data-path-to-node=&quot;12,2,1,0,0&quot;&gt;剔除强负电序列&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;防止与带负电的 PB 纳米酶排斥，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;毒性和易聚集序列&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="239" y="520" width="261" height="40" as="geometry" />
+          <mxGeometry x="238.5" y="510" width="261" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-12" target="pZfPvZ3Fr_B66GHdRBus-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-12" target="pZfPvZ3Fr_B66GHdRBus-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-12" value="&lt;b&gt;动力学终审&lt;/b&gt;：短时间分子动力学模拟估算结合自由能并分析接触稳定性" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-12" value="&lt;b&gt;去重&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="610" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-14" target="pZfPvZ3Fr_B66GHdRBus-16" edge="1">
