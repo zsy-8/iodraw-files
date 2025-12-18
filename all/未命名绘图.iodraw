@@ -37,7 +37,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-16" target="pZfPvZ3Fr_B66GHdRBus-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-16" value="&lt;b&gt;敏感性验证&lt;/b&gt;：阴性对照重跑流程验证流程敏感性" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-16" value="&lt;b&gt;多样性聚类：&lt;/b&gt;阴性对照重跑流程验证流程敏感性" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="239" y="810" width="261" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-18" target="pZfPvZ3Fr_B66GHdRBus-37" edge="1">
