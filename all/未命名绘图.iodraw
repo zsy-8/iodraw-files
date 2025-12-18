@@ -129,7 +129,7 @@
           <mxGeometry x="369" y="618.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="461.5" y="231.25" width="130" height="33.75" as="geometry" />
+          <mxGeometry x="465.25" y="240" width="130" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="444" y="402.5" width="20" height="120" as="geometry" />
@@ -178,7 +178,7 @@
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-6" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="197.5" width="130" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="YwTyjbH3uf9YxfQzc2_i-7" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-7" value="稳健主力" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="150" width="130" height="33.75" as="geometry" />
         </mxCell>
       </root>
