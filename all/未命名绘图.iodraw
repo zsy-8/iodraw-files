@@ -120,19 +120,13 @@
           <mxGeometry x="591.5" y="865" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="436.5" y="150" width="15" height="170" as="geometry" />
+          <mxGeometry x="444" y="150" width="15" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-58" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="369" y="897.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-59" value="升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="369" y="618.75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-62" value="&lt;span data-end=&quot;437&quot; data-start=&quot;413&quot;&gt;保守-激进双批次生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="454" y="180" width="130" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-64" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="454" y="231.25" width="130" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="444" y="402.5" width="20" height="120" as="geometry" />
