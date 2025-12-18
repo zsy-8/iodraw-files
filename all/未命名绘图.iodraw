@@ -14,7 +14,7 @@
           <mxGeometry x="239" y="100" width="120" height="70.94" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-6" value="&lt;b&gt;&lt;span&gt;约束生成&lt;/span&gt;：&lt;/b&gt;利用 &lt;span&gt;ESM-2&lt;/span&gt;，固定热点，对非关键位点进行掩码补全，不同种子掩码率不同，共生成20-50万条" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="236.5" y="285" width="130" height="60" as="geometry" />
+          <mxGeometry x="235.5" y="300" width="133.5" height="75" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pZfPvZ3Fr_B66GHdRBus-42" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="191.5" y="205" width="20" height="140" as="geometry" />
+          <mxGeometry x="191.5" y="205" width="18.5" height="175" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-49" value="第二阶段：四驱生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="81.5" y="260" width="70" height="30" as="geometry" />
