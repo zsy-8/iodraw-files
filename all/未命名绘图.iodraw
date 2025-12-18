@@ -91,13 +91,8 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" target="pZfPvZ3Fr_B66GHdRBus-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="462.5999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-42" value="&lt;b&gt;序列模型快筛：&lt;/b&gt;用现成的&lt;span style=&quot;&quot; data-end=&quot;296&quot; data-start=&quot;277&quot;&gt;肽-蛋白相互作用/结合预测模型&lt;/span&gt;做第一道快筛，条件允许可以两个模型取交集/加权平均" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="239" y="430" width="120" height="65" as="geometry" />
+          <mxGeometry x="238.5" y="420" width="121" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-48" target="pZfPvZ3Fr_B66GHdRBus-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,13 +145,11 @@
         <mxCell id="TB8TpsdE_VyWEIfNNLQ7-1" value="理化性质空间均衡" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="466.5" y="492.5" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TB8TpsdE_VyWEIfNNLQ7-2" edge="1">
+        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="433" as="targetPoint" />
+            <mxPoint x="530.25" y="432.5" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TB8TpsdE_VyWEIfNNLQ7-2" value="序列相似度约束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="466.5" y="402.5" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YwTyjbH3uf9YxfQzc2_i-1" target="pZfPvZ3Fr_B66GHdRBus-6">
           <mxGeometry relative="1" as="geometry" />
