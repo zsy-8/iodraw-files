@@ -172,7 +172,7 @@
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;种子分级：&lt;/b&gt;把种子库各序列分成四部分，分别对应不同的生成规则" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="236.5" y="205" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YwTyjbH3uf9YxfQzc2_i-5" value="迭代式生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YwTyjbH3uf9YxfQzc2_i-5" value="仿生设计" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="285" width="130" height="33.75" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-6" value="缺陷修复" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
