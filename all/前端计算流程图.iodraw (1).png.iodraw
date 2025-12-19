@@ -118,13 +118,8 @@
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-7" value="稳健主力（强阳序列）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="621.25" y="141.4" width="128.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407.29999999999995" y="823.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;b&gt;结构弛豫与动力学：&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;取 AF-Multimer 输出的50条序列&lt;/span&gt;里挑&lt;span style=&quot;&quot; data-end=&quot;573&quot; data-start=&quot;548&quot;&gt;15–17 条候选肽&lt;/span&gt;做 MD&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;，用&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;53&quot; data-path-to-node=&quot;18,1,1,0,0&quot;&gt;GROMACS 进行&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;53&quot; data-path-to-node=&quot;18,1,1,0,0&quot;&gt;短时 MD&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;计算 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;6&quot; data-path-to-node=&quot;18,1,1,1,0&quot;&gt;MM-GBSA&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt; 结合自由能&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="277.88" y="750" width="260" height="53.75" as="geometry" />
+          <mxGeometry x="277.88" y="750" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-5" target="ASaSJxJUGwYIL_tXkzPQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -134,11 +129,6 @@
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第五阶段：物理精筛&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="843.13" width="80" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ASaSJxJUGwYIL_tXkzPQ-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407.29999999999995" y="876.24" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-13" target="ASaSJxJUGwYIL_tXkzPQ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
