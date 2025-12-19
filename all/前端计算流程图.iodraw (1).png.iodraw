@@ -82,7 +82,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" target="pZfPvZ3Fr_B66GHdRBus-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-42" value="&lt;b&gt;序列模型快筛：&lt;/b&gt;用现成的序列模型对与 PD-L1 结合/相互作用的可能性进行打分与排序，结合理化性质和毒性等指标，初步筛选并保留约 3000 条条件允许可以两个模型取交集/加权平均" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-42" value="&lt;b&gt;序列模型快筛：&lt;/b&gt;用现成的序列模型对与 PD-L1 结合/相互作用的可能性进行打分与排序，结合理化性质和毒性等指标，初步筛选并保留约 5000 条条件允许可以两个模型取交集/加权平均" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="277.75" y="340" width="262.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-48" target="pZfPvZ3Fr_B66GHdRBus-49" edge="1">
