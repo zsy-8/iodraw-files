@@ -148,14 +148,15 @@
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-2" value="阴性对照肽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="774.5" width="110" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="pvaBqPa6Q2SKM7oaQWKa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pvaBqPa6Q2SKM7oaQWKa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pZfPvZ3Fr_B66GHdRBus-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="408.7" y="971.9" as="sourcePoint" />
-            <mxPoint x="131.2" y="241.89" as="targetPoint" />
+            <mxPoint x="408.75" y="958.76" as="sourcePoint" />
+            <mxPoint x="131.25" y="228.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="409.2" y="1058.14" />
-              <mxPoint x="51.2" y="1058.14" />
-              <mxPoint x="51.2" y="242.14" />
+              <mxPoint x="409" y="1045" />
+              <mxPoint x="51" y="1045" />
+              <mxPoint x="51" y="229" />
+              <mxPoint x="130" y="229" />
             </Array>
           </mxGeometry>
         </mxCell>
