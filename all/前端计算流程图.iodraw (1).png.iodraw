@@ -121,7 +121,7 @@
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-2" target="ASaSJxJUGwYIL_tXkzPQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="结构弛豫与动力学：选取 AF-Multimer 输出的15–17条候选肽进行MD模拟，使用GROMACS计算MM-GBSA结合自由能，并通过RMSF分析确保Linker具有足够柔性，使肽能有效伸出PB表面。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="动力学与工程化适配检查：选取 AF-Multimer 输出的15–17条候选肽进行MD模拟，使用GROMACS计算MM-GBSA结合自由能，并通过RMSF分析确保Linker具有足够柔性，使肽能有效伸出PB表面。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="277.88" y="750" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-5" target="ASaSJxJUGwYIL_tXkzPQ-6" edge="1">
