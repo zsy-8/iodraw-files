@@ -25,7 +25,7 @@
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-10" target="pZfPvZ3Fr_B66GHdRBus-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-10" value="&lt;b&gt;序列检查 + 工程化过滤：&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;删掉不合规或明显“奇怪”的序列：长度不合适、含未知字符、重复太多/太单一&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;删掉明显不适合做载体偶联与实验的序列：电荷或疏水性太极端、容易粘载体/聚集&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;保留约&lt;/span&gt; 3000–4000&lt;span style=&quot;background-color: initial;&quot;&gt;条&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-10" value="&lt;b&gt;序列检查 + 工程化过滤：&lt;/b&gt;删掉不合规/重复过多的序列，以及电荷/疏水性过于极端、易聚集/粘载体的序列&lt;span style=&quot;background-color: initial;&quot;&gt;约&lt;/span&gt; 3000–4000&lt;span style=&quot;background-color: initial;&quot;&gt;条&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="277.5" y="423.75" width="261" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-12" target="pZfPvZ3Fr_B66GHdRBus-16">
