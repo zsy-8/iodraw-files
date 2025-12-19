@@ -119,22 +119,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;b&gt;结构弛豫与动力学：&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;取 AF-Multimer 的 Top 结构，用&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;53&quot; data-path-to-node=&quot;18,1,1,0,0&quot;&gt;GROMACS 进行&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;53&quot; data-path-to-node=&quot;18,1,1,0,0&quot;&gt;短时 MD&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;计算 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;6&quot; data-path-to-node=&quot;18,1,1,1,0&quot;&gt;MM-GBSA&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt; 结合自由能&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="277.88" y="786.25" width="260" height="53.75" as="geometry" />
+          <mxGeometry x="277.88" y="750" width="260" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-5" target="ASaSJxJUGwYIL_tXkzPQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="225.19" y="786.26" width="30" height="223.75" as="geometry" />
+          <mxGeometry x="225.19" y="750.01" width="30" height="223.75" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第五阶段：物理精筛&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="879.38" width="80" height="37.5" as="geometry" />
+          <mxGeometry x="110" y="843.13" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-7" target="ASaSJxJUGwYIL_tXkzPQ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-7" value="&lt;b&gt;工程化适配检查：&lt;/b&gt;通过RMSF (柔性分析)确保 Linker 具有足够柔性，保证肽能从 PB 表面有效伸出" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="277.31" y="860" width="260" height="52.49" as="geometry" />
+          <mxGeometry x="277.31" y="823.75" width="260" height="52.49" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-13" target="ASaSJxJUGwYIL_tXkzPQ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,16 +149,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-13" value="&lt;b&gt;决策分流：&lt;/b&gt;综合结构质量、结合自由能、工程化指标和多目标评分，将候选分为两类&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;18,3,1,0,0&quot;&gt;分流 A&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;：发现优异新骨架&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;32&quot; data-path-to-node=&quot;18,3,1,0,0&quot;&gt;提取骨架返回阶段 1(迭代)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;18,3,1,1,0&quot;&gt;分流 B&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;：综合评分最高&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;28&quot; data-path-to-node=&quot;18,3,1,1,0&quot;&gt;进入下一阶段&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="276.38" y="940" width="262.12" height="70" as="geometry" />
+          <mxGeometry x="276.38" y="903.75" width="262.12" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-18" value="&lt;p&gt;湿实验验证层&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="345.96" y="1100" width="124.04" height="40" as="geometry" />
+          <mxGeometry x="345.96" y="1063.75" width="124.04" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-20" value="&lt;p&gt;分流 A&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="194.13" y="1020" width="60" height="30" as="geometry" />
+          <mxGeometry x="194.13" y="983.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-21" value="&lt;p&gt;分流 B&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="408.65" y="1040" width="60" height="30" as="geometry" />
+          <mxGeometry x="408.65" y="1003.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
