@@ -148,19 +148,10 @@
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-2" value="阴性对照肽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="774.5" width="110" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="pvaBqPa6Q2SKM7oaQWKa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pZfPvZ3Fr_B66GHdRBus-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="408.75" y="958.76" as="sourcePoint" />
-            <mxPoint x="131.25" y="228.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="409" y="1045" />
-              <mxPoint x="51" y="1045" />
-              <mxPoint x="51" y="229" />
-              <mxPoint x="130" y="229" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvaBqPa6Q2SKM7oaQWKa-6" target="ASaSJxJUGwYIL_tXkzPQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvaBqPa6Q2SKM7oaQWKa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvaBqPa6Q2SKM7oaQWKa-6" target="pZfPvZ3Fr_B66GHdRBus-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-6" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;动力学 + 工程化适配 &amp;amp; 最终筛选：&lt;/strong&gt;利用 MD 轨迹的 RMSF/接触情况，评估复合物稳定性和 linker 柔性，确认肽在偶联 PB 后仍能有效伸出载体表面，综合各项指标最终保留约 6–8 条候选肽进入合成与体外实验" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
