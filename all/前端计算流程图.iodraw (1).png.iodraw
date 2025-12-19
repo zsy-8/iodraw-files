@@ -167,13 +167,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-1" value="阴性对照肽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="615" y="673.25" width="110" height="31" as="geometry" />
+          <mxGeometry x="590" y="673.25" width="110" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvaBqPa6Q2SKM7oaQWKa-2" target="ASaSJxJUGwYIL_tXkzPQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-2" value="阴性对照肽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="615" y="761.38" width="110" height="31" as="geometry" />
+          <mxGeometry x="590" y="761.37" width="110" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
