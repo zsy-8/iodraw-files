@@ -71,7 +71,7 @@
           <mxGeometry x="120" y="416.25" width="73.75" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第四阶段：结构筛选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="626.25" width="80" height="37.5" as="geometry" />
+          <mxGeometry x="110" y="631.25" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" target="pZfPvZ3Fr_B66GHdRBus-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
