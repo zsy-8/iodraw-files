@@ -133,9 +133,6 @@
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第五阶段：物理精筛&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="843.13" width="80" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-13" value="&lt;strong data-end=&quot;36&quot; data-start=&quot;22&quot;&gt;生成迭代（未来展望）&lt;/strong&gt;：后续如有更多时间和实验数据，可将这 6–8 条及其实验结果作为种子，开展一轮局部优化或小规模主动学习。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="1000" width="262.12" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-18" value="&lt;p&gt;湿实验验证层&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345.48" y="1110" width="124.04" height="40" as="geometry" />
         </mxCell>
@@ -165,6 +162,9 @@
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-6" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;动力学 + 工程化适配 &amp;amp; 最终筛选：&lt;/strong&gt;利用 MD 轨迹的 RMSF/接触情况，评估复合物稳定性和 linker 柔性，确认肽在偶联 PB 后仍能有效伸出载体表面，综合各项指标最终保留约 6–8 条候选肽进入合成与体外实验" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="277.5" y="893.76" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pvaBqPa6Q2SKM7oaQWKa-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="910" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
