@@ -121,7 +121,7 @@
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-2" target="ASaSJxJUGwYIL_tXkzPQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;b&gt;动力学与工程化适配检查：&lt;/b&gt;选取 AF-Multimer 输出的15–17条候选肽进行MD模拟，使用GROMACS计算MM-GBSA结合自由能，并通过RMSF分析确保Linker具有足够柔性，使肽能有效伸出PB表面，最终输出6-8条候选肽" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;短程 MD 模拟与结合能评估：&lt;/strong&gt;&lt;br data-end=&quot;91&quot; data-start=&quot;88&quot;&gt;&lt;br/&gt;选取 AF-Multimer 输出的约 15–17 条候选肽，在 GROMACS 中进行短程 MD 模拟，并基于轨迹计算 MM-GBSA 结合自由能及能量波动。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="277.88" y="750" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-5" target="ASaSJxJUGwYIL_tXkzPQ-6" edge="1">
@@ -134,7 +134,7 @@
           <mxGeometry x="110" y="843.13" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-13" value="&lt;b&gt;生成迭代：&lt;/b&gt;若后续有更多时间和实验数据，这 6–8 条及其实验结果可以作为迭代设计的种子，再做一轮局部优化或小号主动学习，现在只作为未来展望" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="106.32" y="993.75" width="262.12" height="70" as="geometry" />
+          <mxGeometry x="120" y="980" width="262.12" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-18" value="&lt;p&gt;湿实验验证层&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="497.21" y="890" width="124.04" height="40" as="geometry" />
