@@ -65,13 +65,13 @@
           <mxGeometry x="226.25" y="580" width="23.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-29" value="第一阶段：结构分析" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="63.44" width="80" height="33.12" as="geometry" />
+          <mxGeometry x="120" y="63.44" width="80" height="33.12" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-30" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;第三阶段： 序列清洗&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="416.25" width="73.75" height="47.5" as="geometry" />
+          <mxGeometry x="126.25" y="416.25" width="73.75" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第四阶段：结构筛选&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="631.25" width="80" height="37.5" as="geometry" />
+          <mxGeometry x="120" y="630" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-42" target="pZfPvZ3Fr_B66GHdRBus-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="225.19" y="750.01" width="30" height="223.75" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;第五阶段：物理精筛&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="843.13" width="80" height="37.5" as="geometry" />
+          <mxGeometry x="120" y="843.13" width="80" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-18" value="&lt;p&gt;湿实验验证层&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345.48" y="1110" width="124.04" height="40" as="geometry" />
