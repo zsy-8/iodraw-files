@@ -118,7 +118,10 @@
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-7" value="稳健主力（强阳序列）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="621.25" y="141.4" width="128.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;短程 MD 模拟与结合能评估：&lt;/strong&gt;选取 AF-Multimer 输出的约 15–17 条候选肽，在 GROMACS 中进行短程 MD 模拟，并基于轨迹计算 MM-GBSA 结合自由能及能量波动。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pvaBqPa6Q2SKM7oaQWKa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-2" target="pvaBqPa6Q2SKM7oaQWKa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;短程 MD 模拟与结合能评估：&lt;/strong&gt;选取 AF-Multimer 输出的约 15–17 条候选肽，在 GROMACS 中进行短程 MD 模拟，并基于轨迹计算 MM-GBSA 结合自由能及能量波动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="277.88" y="750" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-5" target="ASaSJxJUGwYIL_tXkzPQ-6" edge="1">
@@ -146,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-2" value="阴性对照肽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="774.5" width="110" height="31" as="geometry" />
+          <mxGeometry x="590" y="764.5" width="110" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-6" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;动力学 + 工程化适配 &amp;amp; 最终筛选：&lt;/strong&gt;利用 MD 轨迹的 RMSF/接触情况，评估复合物稳定性和 linker 柔性，确认肽在偶联 PB 后仍能有效伸出载体表面，综合各项指标最终保留约 6–8 条候选肽进入合成与体外实验" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="277.5" y="893.76" width="260" height="80" as="geometry" />
