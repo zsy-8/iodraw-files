@@ -145,14 +145,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-13" value="&lt;b&gt;决策分流：&lt;/b&gt;综合结构质量、结合自由能、工程化指标和多目标评分，将候选分为两类&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;18,3,1,0,0&quot;&gt;分流 A&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;：发现优异新骨架&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;32&quot; data-path-to-node=&quot;18,3,1,0,0&quot;&gt;提取骨架返回阶段 1(迭代)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;18,3,1,1,0&quot;&gt;分流 B&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial;&quot;&gt;：综合评分最高&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: initial; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;28&quot; data-path-to-node=&quot;18,3,1,1,0&quot;&gt;进入下一阶段&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-13" value="&lt;b&gt;生成迭代&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="276.38" y="903.75" width="262.12" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-18" value="&lt;p&gt;湿实验验证层&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345.96" y="1063.75" width="124.04" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-20" value="&lt;p&gt;分流 A&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="194.13" y="983.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvaBqPa6Q2SKM7oaQWKa-1" target="pZfPvZ3Fr_B66GHdRBus-18">
           <mxGeometry relative="1" as="geometry" />
