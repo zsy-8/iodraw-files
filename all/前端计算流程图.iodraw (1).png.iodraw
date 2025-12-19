@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-16" value="&lt;b&gt;多样性聚类：&lt;/b&gt;按序列或嵌入表示对候选肽进行聚类，从每个簇中仅保留评分最高的 1–2 条代表，将候选压缩到约 300–500 条并保证序列多样性。" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="278" y="630" width="261" height="50" as="geometry" />
+          <mxGeometry x="275.75" y="600" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-18" target="ASaSJxJUGwYIL_tXkzPQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
