@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-1" value="&lt;b&gt;种子分级：&lt;/b&gt;把种子库各序列分成四部分，分别对应不同的生成规则" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="276.75" y="176.25" width="263.5" height="45" as="geometry" />
+          <mxGeometry x="278" y="176.25" width="263.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YwTyjbH3uf9YxfQzc2_i-5" value="仿生设计（天然Loop）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="621.25" y="234.84" width="128.75" height="21.25" as="geometry" />
