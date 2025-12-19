@@ -154,9 +154,6 @@
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-20" value="&lt;p&gt;分流 A&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="194.13" y="983.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-21" value="&lt;p&gt;分流 B&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="408.65" y="1003.75" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvaBqPa6Q2SKM7oaQWKa-1" target="pZfPvZ3Fr_B66GHdRBus-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
