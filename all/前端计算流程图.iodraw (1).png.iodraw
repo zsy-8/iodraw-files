@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-18" value="&lt;p&gt;&lt;b&gt;复合物结构预测:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用 AlphaFold-Multimer 预测 300–500 条代表序列与 PD-L1 的结合，并混入少量阴性对照肽，按结构质量和界面合理性选出约 50 条候选肽&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="278.75" y="660" width="259.13" height="47.5" as="geometry" />
+          <mxGeometry x="278.75" y="660" width="259.13" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-20" target="pZfPvZ3Fr_B66GHdRBus-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="226.25" y="580" width="23.75" height="130" as="geometry" />
+          <mxGeometry x="226.25" y="580" width="23.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-29" value="第一阶段：结构分析" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="63.44" width="80" height="33.12" as="geometry" />
@@ -121,7 +121,7 @@
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-2" target="pvaBqPa6Q2SKM7oaQWKa-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;短时MD 模拟与结合能评估：&lt;/strong&gt;从 AF-Multimer 评分靠前的约 50 条中再挑选 15–17 条代表候选肽（含少量阴性对照），在 GROMACS 中进行短程 MD 模拟，并基于轨迹计算 MM-GBSA 结合自由能及能量波动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ASaSJxJUGwYIL_tXkzPQ-2" value="&lt;strong data-end=&quot;88&quot; data-start=&quot;70&quot;&gt;短时MD 模拟与结合能评估：&lt;/strong&gt;从 AF-Multimer 评分靠前的约 50 条中再挑选 15–17 条代表候选肽，再加入少量阴性对照，在 GROMACS 中进行短程 MD 模拟，并基于轨迹计算 MM-GBSA 结合自由能及能量波动" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="277.88" y="750" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ASaSJxJUGwYIL_tXkzPQ-5" target="ASaSJxJUGwYIL_tXkzPQ-6" edge="1">
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-1" value="阴性对照肽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="668.25" width="110" height="31" as="geometry" />
+          <mxGeometry x="590" y="674.5" width="110" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pvaBqPa6Q2SKM7oaQWKa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pvaBqPa6Q2SKM7oaQWKa-2" target="ASaSJxJUGwYIL_tXkzPQ-2">
           <mxGeometry relative="1" as="geometry" />
