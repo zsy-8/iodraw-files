@@ -43,7 +43,7 @@
         <mxCell id="ASaSJxJUGwYIL_tXkzPQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-18" target="ASaSJxJUGwYIL_tXkzPQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pZfPvZ3Fr_B66GHdRBus-18" value="&lt;p&gt;&lt;b&gt;复合物结构预测:&lt;/b&gt;用&lt;span style=&quot;background-color: initial;&quot;&gt;AlphaFold-Multimer&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预测 300-500 条代表序列与 PD-L1 的结合，输出前50条&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结构表现最好的序列&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pZfPvZ3Fr_B66GHdRBus-18" value="&lt;p&gt;&lt;b&gt;复合物结构预测:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用 AlphaFold-Multimer 预测 300–500 条代表序列与 PD-L1 的结合，并混入少量阴性对照肽，按结构质量和界面合理性选出约 50 条候选肽&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="278.75" y="660" width="259.13" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="pZfPvZ3Fr_B66GHdRBus-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZfPvZ3Fr_B66GHdRBus-20" target="pZfPvZ3Fr_B66GHdRBus-29" edge="1">
