@@ -13,6 +13,9 @@
         <mxCell id="XLa4OMRGAKB6P6rExfDS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-2" target="XLa4OMRGAKB6P6rExfDS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-2" target="XLa4OMRGAKB6P6rExfDS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-2" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;游离肽验证（&lt;/font&gt;Gate1&lt;font face=&quot;宋体&quot;&gt;：&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;Binding + Blocking&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;，含阳性&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;阴性对照）&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="110" width="230" height="40" as="geometry" />
         </mxCell>
@@ -50,6 +53,9 @@
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-14" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;规则回写迭代（&lt;/font&gt;linker/&lt;font face=&quot;宋体&quot;&gt;密度&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;取向优化建议，指导下一轮筛选）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="510" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
