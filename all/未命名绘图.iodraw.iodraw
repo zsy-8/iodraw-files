@@ -16,8 +16,20 @@
         <mxCell id="XLa4OMRGAKB6P6rExfDS-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="110" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-4" target="XLa4OMRGAKB6P6rExfDS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="200" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-6" target="XLa4OMRGAKB6P6rExfDS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="280" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="440" width="225" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
