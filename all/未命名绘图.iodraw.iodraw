@@ -20,25 +20,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-4" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;PB&lt;font face=&quot;宋体&quot;&gt;制备与可偶联化（&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;DLS/TEM/Zeta &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;等表征，批间一致性确认）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="190" width="225" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="190" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-6" target="XLa4OMRGAKB6P6rExfDS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-6" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;肽&lt;/font&gt;-PB&lt;font face=&quot;宋体&quot;&gt;偶联（&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;Gate2&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;：偶联成功证据 &lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;+ &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;展示效应&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;选择性）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="280" width="225" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="270" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-8" target="XLa4OMRGAKB6P6rExfDS-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-8" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;体外验证：靶向&lt;/font&gt; + &lt;font face=&quot;宋体&quot;&gt;功能（摄取&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;结合；阻断&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;免疫相关或纳米酶增益）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="360" width="225" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="350" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-10" target="XLa4OMRGAKB6P6rExfDS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-10" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;体内&lt;/font&gt;&lt;font face=&quot;Calibri&quot; style=&quot;&quot;&gt;验证&lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;：安全性 &lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;Calibri&quot;&gt;+ &lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;分布&lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;初步疗效（小规模强对照）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="440" width="225" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="430" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-12" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;体内&lt;/font&gt;&lt;font face=&quot;Calibri&quot; style=&quot;&quot;&gt;验证&lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;：安全性 &lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;Calibri&quot;&gt;+ &lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;分布&lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font style=&quot;font-family: Calibri;&quot; face=&quot;宋体&quot;&gt;初步疗效（小规模强对照）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="510" width="225" height="40" as="geometry" />
