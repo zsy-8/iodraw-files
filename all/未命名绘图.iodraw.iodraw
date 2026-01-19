@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="30" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-2" target="XLa4OMRGAKB6P6rExfDS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
