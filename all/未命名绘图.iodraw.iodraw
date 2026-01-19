@@ -7,7 +7,7 @@
         <mxCell id="XLa4OMRGAKB6P6rExfDS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-1" target="XLa4OMRGAKB6P6rExfDS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLa4OMRGAKB6P6rExfDS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XLa4OMRGAKB6P6rExfDS-1" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;候选肽准备与基础&lt;/font&gt;QC&lt;font face=&quot;宋体&quot;&gt;（合成&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;采购、复溶保存、纯度&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;分子量确认）&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="30" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLa4OMRGAKB6P6rExfDS-2" target="XLa4OMRGAKB6P6rExfDS-4">
@@ -29,7 +29,7 @@
           <mxGeometry x="307.5" y="280" width="225" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLa4OMRGAKB6P6rExfDS-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="440" width="225" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="360" width="225" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
